@@ -17,6 +17,7 @@
     "graphql": "^0.8.2",
     "graphql-tag": "^2.11.0",
     "html-webpack-plugin": "^2.26.0",
+    "jquery": "^3.6.0",
     "lodash": "^4.17.4",
     "mongoose": "^4.7.8",
     "nodemon": "*",
